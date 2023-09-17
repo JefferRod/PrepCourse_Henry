@@ -1,6 +1,6 @@
 ![HenryLogo](../Assets//logoBannerHenry.png)
 
-# **HOMEWORK 06 | JAVASCRIPT IV**
+# **HOMEWORK 04 | JAVASCRIPT II**
 
 ## **✅ TESTING**
 
@@ -23,7 +23,7 @@ Para ejecutar los tests de las homeworks debes:
 -  Si quieres ejecutar los tests de esta homework en específico ejecuta el comando:
 
 ```bash
-    npm test 06
+    npm test 04
 ```
 
 ---
@@ -34,11 +34,10 @@ Para ejecutar los tests de las homeworks debes:
 
 En esta Homework podrás poner en práctica:
 
--  Objetos
--  Propiedades
--  Métodos
--  Bucle For-In
--  This
+-  Condicionales
+-  Operadores de Comparación
+-  Operadores Lógicos
+-  Bucles
 
 ---
 
@@ -48,4 +47,4 @@ En esta Homework podrás poner en práctica:
 
 ### **📍 HOMEWORK**
 
-En esta Homework tendrás una serie de funciones en las que se te pedirá trabajar con funciones. Crearás y eliminarás propiedades. También utilizarás métodos varios y el bucle For-In.
+En esta homework recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar condicionales, operadores de comparación, operadores lógicos y/o bucles.
